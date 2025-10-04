@@ -14,6 +14,12 @@ Project pembelajaran metode statistika dari level beginner hingga advanced mengg
 ## Struktur Pembelajaran
 
 ### Level Beginner
+0. **00_kombinasi_dan_permutasi.ipynb** - Kombinasi dan Permutasi (Combinations and Permutations)
+   - Faktorial dan konsep dasar
+   - Perbedaan permutasi dan kombinasi
+   - Aplikasi dalam probabilitas
+   - Simulasi dan visualisasi
+
 1. **01_pengenalan_statistika_deskriptif.ipynb** - Pengenalan konsep dasar statistika (Statistics)
    - Jenis-jenis data (Types of Data): Kualitatif/Quantitative, Nominal/Ordinal, Discrete/Continuous
    - Data primer/sekunder, internal/eksternal
@@ -39,10 +45,23 @@ Project pembelajaran metode statistika dari level beginner hingga advanced mengg
    - Pendekatan probabilitas (Classical, Empirical, Subjective)
    - Simulasi dengan dadu dan visualisasi
 
+5b. **05b_random_variable.ipynb** - Random Variable (Variabel Acak)
+   - Random variable diskrit dan kontinu
+   - Expected value dan variance
+   - Sifat-sifat random variable
+   - Aplikasi dalam masalah praktis
+
 6. **06_distribusi_normal.ipynb** - Distribusi normal (Normal Distribution/Gaussian Distribution)
    - PDF dengan rumus matematis
    - Pengaruh mean dan standard deviation
+   - Menggunakan tabel Z
    - Simulasi data normal
+
+6b. **06b_distribusi_probabilitas.ipynb** - Distribusi Probabilitas (Probability Distributions)
+   - Distribusi Bernoulli, Binomial, dan Poisson
+   - Expected value dan variance
+   - Aplikasi dalam masalah praktis
+   - Visualisasi distribusi
 
 ### Level Intermediate
 7. **07_sampling_dan_estimasi.ipynb** - Teknik sampling dan estimasi parameter
@@ -156,7 +175,7 @@ Setiap notebook memiliki struktur yang konsisten:
 Silakan buat issue atau pull request untuk perbaikan atau penambahan materi.
 
 ## Status Project
-- ✅ **19 Notebook Lengkap**: Semua notebook telah dilengkapi dengan konten detail
+- ✅ **22 Notebook Lengkap**: Semua notebook telah dilengkapi dengan konten detail
 - ✅ **3 Level Pembelajaran**: Beginner, Intermediate, dan Advanced
 - ✅ **Istilah Bahasa Inggris**: Setiap konsep memiliki terminologi internasional
 - ✅ **Kode Python Interaktif**: Implementasi lengkap dengan visualisasi
@@ -164,5 +183,10 @@ Silakan buat issue atau pull request untuk perbaikan atau penambahan materi.
 - ✅ **Pembelajaran Bertahap**: Progresi dari konsep dasar hingga lanjutan
 - ✅ **Requirements.txt**: Daftar dependency yang lengkap
 - ✅ **Advanced Topics**: Regresi multiple, time series, non-parametrik, ML statistik
+- ✅ **Materi Dasar Lengkap**: Kombinasi, permutasi, random variable, distribusi probabilitas
+- ✅ **Point Estimator**: Materi estimasi titik yang detail
+- ✅ **Confidence Interval Proportion**: Interval kepercayaan untuk proporsi
+- ✅ **Paired t-test**: Uji t berpasangan yang komprehensif
+- ✅ **Tabel Z**: Penggunaan tabel distribusi normal standar
 
 
